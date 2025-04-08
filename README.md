@@ -2,7 +2,7 @@
 
 **Welcome to the official website of Knight Move Chess Academy** — a modern, elegant, and fully responsive platform designed to inspire, inform, and engage chess enthusiasts across the globe.
 
-![Knight Move Chess Academy Banner](./screenshots/banner.jpg)
+![Knight Move Chess Academy Banner](./screenshots/banner.png)
 
 ---
 
@@ -60,7 +60,7 @@ This website serves as a virtual gateway for prospective students, parents, and 
 
 | Hero Section | Trainers | Courses |
 |--------------|----------|---------|
-| ![Events and Tournments](./screenshots/events.png) | ![Trainers](./screenshots/trainers-section.png) | ![Courses](./screenshots/Courses.png) |
+| ![Events and Tournments](./screenshots/Events.png) | ![Trainers](./screenshots/trainers-section.png) | ![Courses](./screenshots/Courses.png) |
 
 
 
@@ -73,27 +73,36 @@ git clone https://github.com/your-username/knight-move-chess-academy.git
 cd knight-move-chess-academy
 open index.html
 
--------------
- 🌟 Planned Enhancements
- Live Chatbot (e.g., Tidio, Botpress)
+## 🌟 Planned Enhancements
 
- Backend Integration (Node.js/React)
+- 💬 **Live Chatbot** (e.g., Tidio, Botpress)
+- 🔗 **Backend Integration** (Node.js / React)
+- 📊 **Student Dashboard & Progress Tracker**
+- ♟️ **Daily Puzzle / Mini Games**
+- 🔍 **SEO Improvements** (alt tags, structured data)
 
- Student Dashboard & Progress Tracker
+---
 
- Daily Puzzle / Mini Games
+## 🤝 Contributing
 
- SEO Improvements (alt tags, structured data)
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss your ideas.
 
-🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
-This project is licensed under the MIT License — feel free to fork and customize with attribution.
+This project is licensed under the **MIT License** — feel free to fork, customize, and build upon it with proper attribution.
 
-🧑‍💻 Developed By
-Yashpal Sharma
-Lead Trainer & Developer at Knight Move Chess Academy
-📧 yashh.sharma199@gmail.com
-📸 Instagram: @txnujsharma
+---
 
-📢 Special Thanks
-Thanks to the Knight Move team, students, and the chess community for inspiring this project.
+## 🧑‍💻 Developed By
+
+**Yashpal Sharma**  
+Lead Trainer & Developer at Knight Move Chess Academy  
+📧 yashh.sharma199@gmail.com  
+📸 [Instagram: @txnujsharma](https://instagram.com/txnujsharma)
+
+---
+
+## 📢 Special Thanks
+
+Big thanks to the **Knight Move team**, our amazing **students**, and the **chess community** for the continued support and inspiration behind this project.
+
+
