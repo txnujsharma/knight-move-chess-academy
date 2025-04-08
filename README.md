@@ -2,7 +2,7 @@
 
 **Welcome to the official website of Knight Move Chess Academy** — a modern, elegant, and fully responsive platform designed to inspire, inform, and engage chess enthusiasts across the globe.
 
-![Knight Move Chess Academy Banner](https://your-image-url-if-any.jpg)
+![Knight Move Chess Academy Banner](./screenshots/banner.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ This website serves as a virtual gateway for prospective students, parents, and 
 
 | Hero Section | Trainers | Courses |
 |--------------|----------|---------|
-| ![Hero](./screenshots/hero.png) | ![Trainers](./screenshots/trainers.png) | ![Courses](./screenshots/courses.png) |
+| ![Events and Tournments](./screenshots/events.png) | ![Trainers](./screenshots/trainers-section.png) | ![Courses](./screenshots/Courses.png) |
 
 
 
@@ -74,7 +74,7 @@ cd knight-move-chess-academy
 open index.html
 
 -------------
-🌟 Planned Enhancements
+ 🌟 Planned Enhancements
  Live Chatbot (e.g., Tidio, Botpress)
 
  Backend Integration (Node.js/React)
