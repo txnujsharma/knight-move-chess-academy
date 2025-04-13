@@ -90,6 +90,7 @@ For major changes, please open an issue first to discuss your ideas.
 
 This project is licensed under the **MIT License** — feel free to fork, customize, and build upon it with proper attribution.
 
+
 ---
 
 ## 🧑‍💻 Developed By
